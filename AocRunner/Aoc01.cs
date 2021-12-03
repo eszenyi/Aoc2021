@@ -11,6 +11,12 @@ namespace AocRunner
             numbers = Loader.LoadInts("inputs\\day01.txt");
         }
 
+        /*
+         * --- Day 1: Sonar Sweep ---
+         * https://adventofcode.com/2021/day/1
+         *
+         */
+
         public int RunPuzzle1()
         {
             int prev = int.MinValue;

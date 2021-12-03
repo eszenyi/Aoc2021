@@ -8,6 +8,12 @@
         {
             lines = File.ReadAllLines("inputs\\day02.txt");
         }
+        
+        /*
+         * --- Day 2: Dive! ---
+         * https://adventofcode.com/2021/day/2
+         * 
+         */
 
         public int RunPuzzle1()
         {
