@@ -10,6 +10,7 @@ namespace AocRunner
         public Aoc04()
         {
             //lines = File.ReadAllLines("inputs\\day04.txt");
+            Console.WriteLine("--- Day 4: ---");
         }
 
         /*

@@ -7,8 +7,9 @@
         public Aoc02()
         {
             lines = File.ReadAllLines("inputs\\day02.txt");
+            Console.WriteLine("--- Day 2: Dive! ---");
         }
-        
+
         /*
          * --- Day 2: Dive! ---
          * https://adventofcode.com/2021/day/2

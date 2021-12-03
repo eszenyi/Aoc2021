@@ -1,7 +1,7 @@
 ﻿using AocRunner;
 
-var puzzle = new Aoc03();
+var puzzle = new Aoc04();
 var result = puzzle.RunPuzzle1();
-Console.WriteLine($"{result}");
+Console.WriteLine($"Part one = {result}");
 result = puzzle.RunPuzzle2();
-Console.WriteLine($"{result}");
+Console.WriteLine($"Part two = {result}");

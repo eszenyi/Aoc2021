@@ -10,6 +10,7 @@ namespace AocRunner
         public Aoc03()
         {
             lines = File.ReadAllLines("inputs\\day03.txt");
+            Console.WriteLine("--- Day 3: Binary Diagnostic ---");
         }
 
         /*

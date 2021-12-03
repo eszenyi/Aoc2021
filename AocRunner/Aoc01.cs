@@ -9,6 +9,7 @@ namespace AocRunner
         public Aoc01()
         {
             numbers = Loader.LoadInts("inputs\\day01.txt");
+            Console.WriteLine("--- Day 1: Sonar Sweep ---");
         }
 
         /*
