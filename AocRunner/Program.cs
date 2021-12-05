@@ -1,9 +1,9 @@
 ﻿using AocRunner;
 
-var puzzle = new Aoc04();
+var puzzle = new Aoc05();
 var result = puzzle.RunPuzzle1();
 Console.WriteLine($"Part one = {result}");
 
-puzzle = new Aoc04();
+puzzle = new Aoc05();
 result = puzzle.RunPuzzle2();
 Console.WriteLine($"Part two = {result}");
