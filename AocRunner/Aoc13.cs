@@ -3,7 +3,7 @@
     internal class Aoc13
     {
         /*
-         * --- Day 13: ??? ---
+         * --- Day 13: Transparent Origami ---
          * https://adventofcode.com/2021/day/13
          *
          */
@@ -129,23 +129,6 @@
             }
 
             points = newPoints;
-        }
-
-        private struct Point
-        {
-            public int X;
-            public int Y;
-
-            public Point(int x, int y)
-            {
-                X = x;
-                Y = y;
-            }
-
-            public override string ToString()
-            {
-                return $"{X}, {Y}";
-            }
         }
     }
 }
